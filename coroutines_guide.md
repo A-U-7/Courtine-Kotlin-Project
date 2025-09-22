@@ -164,3 +164,16 @@ pie
 ```
 
 > 💡 Remember: Mastery comes with practice. Build real projects to solidify your understanding!
+
+---
+
+<div align="center">
+  <h3>✨ Guide Created By ✨</h3>
+  <a href="https://github.com/A-U-7">
+    <img src="https://img.shields.io/badge/Created%20by-Amit%20Upadhyay-blueviolet?style=for-the-badge" alt="Amit Upadhyay">
+  </a>
+  
+  [![GitHub followers](https://img.shields.io/github/followers/A-U-7?label=Follow%20%40A-U-7&style=social)](https://github.com/A-U-7)
+  
+  <p>If you found this guide helpful, consider giving it a ⭐ on GitHub!</p>
+</div>
