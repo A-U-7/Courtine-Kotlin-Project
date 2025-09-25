@@ -1,4 +1,4 @@
-package com.kotlin_learning.coroutines_basics
+package com.kotlin_learning.coroutines_miscellneous
 
 import kotlinx.coroutines.*
 

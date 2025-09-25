@@ -406,8 +406,11 @@ Kotlin Flow provides a rich set of operators for both synchronous and asynchrono
 ---
 
 <div style="text-align: center; margin-top: 2em; padding: 1.5em; background: rgba(0, 180, 216, 0.1); border-radius: 8px; border-left: 4px solid var(--accent);">
-    <div style="font-size: 1.2em; color: var(--accent); margin-bottom: 0.5em;">
-        <i class="fas fa-code" style="margin-right: 8px;"></i>Documentation by
+    <div style="font-size: 1.2em; color: var(--accent); margin-bottom: 0.5em; display: flex; align-items: center; justify-content: center;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="margin-right: 8px;">
+            <path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path>
+        </svg>
+        Documentation by
     </div>
     <div style="font-size: 1.5em; font-weight: bold; color: var(--primary); margin-bottom: 0.5em;">
         Amit Upadhyay
